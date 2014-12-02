@@ -73,4 +73,3 @@ participantObjectName
 participantObjectTypeCode  
 participantObjectTypeCodeRole  
 participantObjectDataLifeCycle  
-mostRecentResults  
